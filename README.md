@@ -17,7 +17,7 @@
 
 ## Instalación
 
-Cuando este disponible en la Chrome Store dejaré el enlace por aquí.
+Aqui esta el enlace para la instalacion: [clic aqui](https://chromewebstore.google.com/detail/hack4u-modo-cine/pffdaojoombnflnpafhiccglbabhkkop?hl=es)
 
 Al instalarla solo tienes que refrescar la página, el boton para intercambiar entre el modo cine y el modo normal aparecerá en la parte superior de la siguiente forma:
 
